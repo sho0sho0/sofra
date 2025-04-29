@@ -1,7 +1,7 @@
 // Importing Flutter's Material Design library
 import 'package:flutter/material.dart';
 // Importing the main.dart file (assuming it has shared widgets or resources)
-import 'package:sofra/main.dart';
+import 'package:sofra/Screens/main.dart';
 
 // The main function - entry point of the Flutter app
 void main() {
